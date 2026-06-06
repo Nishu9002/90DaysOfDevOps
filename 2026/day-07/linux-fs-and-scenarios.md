@@ -230,7 +230,7 @@ Why: Execute script
 
 ---
 
-## ✅ What I Learned
+##  What I Learned
 
 - Linux file system structure is very important for troubleshooting
 - Logs and configs are stored in specific directories
